@@ -1,0 +1,65 @@
+body{
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.title{
+  text-align: center;
+
+}
+
+
+
+.titleh1{
+  font-family: Nunito;
+  color: white;
+  font-weight: 900;
+  font-size: 5rem;
+}
+
+.titleh2{
+  padding-top: 2%;
+  font-family: Odibee;
+  color: white;
+  font-weight: 400;
+  font-size: 3rem;
+}
+
+
+.p1{
+  padding-left:15%;
+  padding-top:5%;
+  text-align:center;
+}
+
+.p2{
+  padding-right:15%;
+  padding-top:5%;
+  text-align:center;
+}
+
+.boardtext{
+  font-family: Nunito;
+  color: #249f9c;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+img{
+  width: 20rem;
+  height: 20rem;
+}
+
+.imgP{
+  visibility: hidden;
+  position: absolute;
+}
+
+.winnertext{
+  margin-top: 5%;
+  text-align: center;
+  font-family: Nunito;
+  color: white;
+  font-weight: 900;
+  font-size: 5rem;
+}
